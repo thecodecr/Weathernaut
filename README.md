@@ -1,8 +1,5 @@
 # Weathernaut
 
-[![Releases](https://img.shields.io/github/v/release/tangobeee/Weathernaut.svg)](https://github.com/tangobeee/Weathernaut/releases/latest)
-![GitHub](https://img.shields.io/github/license/tangobeee/weathernaut)
-![Release version on IzzyOnDroid](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/me.tangobee.weathernaut)
 
 <p align="center"><img src="assets/Flat-cover.png" /></p>
 

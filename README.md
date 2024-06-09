@@ -20,15 +20,7 @@
 - Background Lofi Music
 - Use locale Database
 
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-      alt="Download from IzzyOnDroid"
-      height="80">](https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Download from Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=me.tangobee.weathernaut)
-[<img src="assets/direct-apk-download.png"
-      alt="Direct apk download"
-      height="80">](https://github.com/tangobeee/Weathernaut/releases/latest)
+
 
 **Screenshot**
 
